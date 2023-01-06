@@ -1,0 +1,3 @@
+//MO332-333.TXT ANA00332 TO ANA00333
+Société		TAR	579	nouvelle taille enregistrement : 579
+Société	MotDePasse	RUB+		MotDePasse est une nouvelle rubrique

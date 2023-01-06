@@ -1,0 +1,4 @@
+//MO331-332.TXT ANA00331 TO ANA00332
+GESTION_OT		TAR	1553	nouvelle taille enregistrement : 1553
+GESTION_OT	IDSite	RUB+		IDSite est une nouvelle clé
+Contrainte_GESTION_OT_Site		NWL	Site (IDSite) et GESTION_OT (IDSite)	Nouvelle liaison entre les fichiers Site (IDSite) et GESTION_OT (IDSite)
